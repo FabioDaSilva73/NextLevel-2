@@ -20,4 +20,4 @@
 
 ## :red_circle: Minha aplicação possui uma falha no tratamento da 'connection' no server, isso implica que a parte de inserção e busca e realizada mais o retorno é um erro, corrigirei em breve.:red_circle:
 
-## :boom: NextLevelWeek
+## :boom: NextLevelWeek :boom:
