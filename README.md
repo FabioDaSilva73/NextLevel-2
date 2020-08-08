@@ -15,4 +15,4 @@
  ## O aplicativo foi desenvolvido pela 'rocketseat' na 'NextLevelWeek'. :rocket:
 - O desenvolvimento de aplicativo teve como finalidade, levar as pessoas que fiseram parte do projeto para um proximo nivel, elevando assim as habilidade individuais;
 
- # red_circle:  Minha aplicação possui uma falha no tratamento da 'connection' no server, isso implica que a parte de inserção e busca e realizada mais o retorno é um erro, corrigirei em breve.
+ # :red_circle:  Minha aplicação possui uma falha no tratamento da 'connection' no server, isso implica que a parte de inserção e busca e realizada mais o retorno é um erro, corrigirei em breve.
